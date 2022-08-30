@@ -1,3 +1,3 @@
 # App
 
-  A mental healthchatbot
+  A mental health chatbot app
